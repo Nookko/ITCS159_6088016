@@ -1,2 +1,7 @@
 My name is Nookko
+<<<<<<< HEAD
 add from the myNewFeature
+=======
+The faculty of Information and Communication Technology
+This is my new feature
+>>>>>>> master
